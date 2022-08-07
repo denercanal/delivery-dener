@@ -3,7 +3,7 @@
 class Conexao
 {
   private $servidor_mysql = 'localhost';
-  private $nome_banco = 'desweb';
+  private $nome_banco = 'delivery-dener';
   private $usuario = 'root';
   private $senha = '';
   private $con;
